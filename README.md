@@ -15,10 +15,10 @@ The game features:
 
 
 ## Screenshots
-![Main Menu screen](Screenshots/Main%20Menu.png "Main menu screen")
-![Game board example](Screenshots/Game2.png "Game board example") 
-![Game over screen](Screenshots/Game%20Over%20Screen.png "Game over screen") 
-![Scoreboard](Screenshots/Scoreboard.png "Scoreboard") 
+| Main Menu | Game Board | Game Over | Scoreboard |
+|:---:|:---:|:---:|:---:|
+| ![Main Menu](Screenshots/Main%20Menu.png "Main menu screen") | ![Game Board](Screenshots/Game2.png "Game board example") | ![Game Over](Screenshots/Game%20Over%20Screen.png "Game over screen") | ![Scoreboard](Screenshots/Scoreboard.png "Scoreboard") |
+
 
 
 ## Additional notes
